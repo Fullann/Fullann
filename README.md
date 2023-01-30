@@ -11,13 +11,6 @@ I am oriented towards web technology
   - French
   - English
 
-
-### 🔭 I'm currently working on
-
-  - My old projects
-  - A bot for discord
-  - A mobile application
-
 ### Project on Github
   If the project ends up being 3000 it's a small project done quickly to test otherwise the other ones are bigger 
   
