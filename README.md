@@ -3,16 +3,9 @@
 Hello I am a student in computer science at ETML.
 I am oriented towards web technology
 
-### 🌱 - I’m currently learning
-  - VueJS
-  - Axios
-
 ### 💬 -  Ask me in 
   - French
   - English
-
-### Project on Github
-  If the project ends up being 3000 it's a small project done quickly to test otherwise the other ones are bigger 
   
 ### 💻 - Language used on GitHub
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fullann&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
