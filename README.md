@@ -1,8 +1,5 @@
 ![banner](https://user-images.githubusercontent.com/70369150/141187715-8beaecf0-3fe9-4b15-82eb-411295e56a2f.png)
 
-Hello I am a student in computer science at ETML.
-I am oriented towards web technology
-
 ### 💬 -  Ask me in 
   - French
   - English
