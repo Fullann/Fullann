@@ -4,7 +4,7 @@
 
 ## About Me
 
-Hello there! I'm Fullann, a passionate developer who loves to code in both French and English. Feel free to connect with me in either of these languages.
+HEIG-VD Bachelor in Computer Security 🛡️ | Passionate about securing the digital realm | Code enthusiast and problem solver | Exploring the intersection of technology and cybersecurity 💻🔐 | Learning and growing at the crossroads of innovation and security. 🚀 #InfoSec #Cybersecurity #HEIGVD
 
 ## 📚 - Technical Skills
 
